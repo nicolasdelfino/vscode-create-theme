@@ -1,0 +1,27 @@
+{
+    "name": "create-theme",
+    "displayName": "Create Theme",
+    "description": "Create theme, dark",
+    "version": "0.0.1",
+    "author": {
+        "name": "Nicolas Delfino"
+    },
+    "publisher": "NicolasDelfino",
+    "icon": "create.png",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Create",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Create-color-theme-dark.json"
+            }            
+        ]
+    }
+}
