@@ -7,6 +7,7 @@
         "name": "Nicolas Delfino"
     },
     "publisher": "NicolasDelfino",
+    "repository": {"url": "https://github.com/nicolasdelfino/vscode-create-theme"},
     "icon": "create.png",
     "license": "MIT",
     "engines": {
