@@ -2,12 +2,14 @@
     "name": "create-theme",
     "displayName": "Create Theme",
     "description": "Create theme, dark",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Nicolas Delfino"
     },
     "publisher": "NicolasDelfino",
-    "repository": {"url": "https://github.com/nicolasdelfino/vscode-create-theme"},
+    "repository": {
+        "url": "https://github.com/nicolasdelfino/vscode-create-theme"
+    },
     "icon": "create.png",
     "license": "MIT",
     "engines": {
@@ -22,7 +24,7 @@
                 "label": "Create",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Create-color-theme-dark.json"
-            }            
+            }
         ]
     }
 }
