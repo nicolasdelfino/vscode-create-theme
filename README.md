@@ -1,3 +1,5 @@
-# Create theme for VS Code
+# CREATE theme for VS Code
 
-A dark theme.
+A beautiful dark and blue-greenish theme.
+
+![theme](./theme.png)
