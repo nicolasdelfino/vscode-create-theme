@@ -2,7 +2,7 @@
     "name": "create-theme",
     "displayName": "Create Theme",
     "description": "Create theme, dark",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": {
         "name": "Nicolas Delfino"
     },
