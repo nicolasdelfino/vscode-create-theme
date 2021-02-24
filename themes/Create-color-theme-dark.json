@@ -870,6 +870,18 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": [
+				"meta.object-literal.key.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"source.js",
+				"meta.object-literal.key.js"
+			],
+			"settings": {
+				"foreground": "#88DCCD"
+			}
 		}
 	]
 }
